@@ -1,1 +1,4 @@
-# README-Generator---HW9
+# matttrader
+
+  ![badge](https://img.shields.io/badge/license-MIT-blue)
+

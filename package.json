@@ -1,0 +1,24 @@
+{
+  "name": "README-Generator---HW9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matttrader/README-Generator---HW9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matttrader/README-Generator---HW9/issues"
+  },
+  "homepage": "https://github.com/matttrader/README-Generator---HW9#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
